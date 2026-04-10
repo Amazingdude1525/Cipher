@@ -57,5 +57,5 @@ A comprehensive QR Code utility application built using Flutter, demonstrating c
 | Dashboard | Scanner Interface | Code Generator |
 | :---: | :---: | :---: |
 | <img src="assets/screenshots/home.png" width="230"/> | <img src="assets/screenshots/scanner.png" width="230"/> | <img src="assets/screenshots/generator.png" width="230"/> |
-| **History Log** | **Event Management** | **Custom Interface** |
-| <img src="assets/screenshots/history.png" width="230"/> | <img src="assets/screenshots/events.png" width="230"/> | <img src="assets/screenshots/custom.png" width="230"/> |
+| **History Log** | **Event Management** | **Profile & Settings** |
+| <img src="assets/screenshots/history.png" width="230"/> | <img src="assets/screenshots/events.png" width="230"/> | <img src="assets/screenshots/profile.png" width="230"/> |
