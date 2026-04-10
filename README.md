@@ -33,8 +33,8 @@ A comprehensive QR Code utility application built using Flutter. This project wa
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/Amazingdude1525/Cipher-Developers-Team-Task-Round.git
-    cd Cipher-Developers-Team-Task-Round
+    git clone https://github.com/Amazingdude1525/Cipher.git
+    cd Cipher
     ```
 
 2.  **Fetch Dependencies:**
